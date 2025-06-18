@@ -1,0 +1,2 @@
+- [Type](/structure/en/type.md)
+- [Feature](/structure/en/feature.md)
