@@ -22,7 +22,7 @@ src/
 │   ├── thunk/ 
 │   └── index.ts 
 ├── styles/
-├── types/
+├── typings/
 └── utils/
 ```
 
